@@ -32,9 +32,6 @@ function ModalComponent() {
 
 
 
-
-
-
     return (
         <>
             <Dialog open={recivedData.dialogeOpen} onClose={closeModal}>
